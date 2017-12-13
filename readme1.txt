@@ -5,4 +5,4 @@ Git tracks changes of files.
 xuexi burongyi
 daodi yao zen yang
 Creating a new branch is quick
-creating is quick & simple
+creating is quick and simple
